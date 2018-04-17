@@ -1,0 +1,68 @@
+
+html {
+	background-image: url(https://images2.alphacoders.com/474/thumb-350-474157.jpg);
+	 -webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+ 	 -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+body {
+	background-image: url(https://images2.alphacoders.com/474/thumb-350-474157.jpg);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	 -webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+ 	 -o-background-size: cover;
+    background-size: cover;
+}
+
+.navbar {
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+h1 {
+	color: white;
+	font-family: 'Poiret One', cursive;
+	font-weight:  bold;
+	padding: 15px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.container {
+
+	padding-right: 75px;
+	padding-left: 75px;
+
+
+}
+
+.carousel-caption {
+	color: #FCF8F8;
+	font-size: 2em;
+	font-family: 'Poiret One', cursive;
+	font-weight:  bold;
+}
+
+.btn {
+	font-family: 'Poiret One', cursive;
+	font-weight:  bold;
+	margin-top: 25px;
+	font-size: 1.8em;
+	
+
+
+}
+.button {
+	font-family: 'Poiret One', cursive;
+        font-weight:  bold;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+}
