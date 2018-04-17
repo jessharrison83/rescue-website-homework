@@ -19,10 +19,7 @@ body {
     background-size: cover;
 }
 
-.carousel-inner .carousel-item .carousel-slide {
-  transition: -webkit-transform 2s ease;
-  transition: transform 2s ease;
-  transition: transform 2s ease, -webkit-transform 2s ease;
+
 }
 
 .navbar {
